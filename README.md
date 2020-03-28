@@ -13,3 +13,7 @@ Rhomson Reuters
 ## Researchers
 
 ## WTO-Journals
+
+### ToDos
+
+- [ ] Ask for an advice to worldtradelaw.net
