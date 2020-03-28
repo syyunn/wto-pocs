@@ -16,6 +16,7 @@ Rhomson Reuters
 ## Researchers
 
 ## WTO-Journals
+http://www.worldtradelaw.net/static.php?type=public&page=journals
 https://www.wto.org/english/res_e/publications_e/wtr10_forum_e/wtr10_marceau_e.pdf
 ### ToDos
 
