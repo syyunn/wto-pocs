@@ -6,6 +6,9 @@ Assort available point of contacts related to the WTO regime
 ### WTO-centered
 worldtradelaw.net
 
+### International-law
+http://www.kluwerlaw.com/
+
 ### Non-WTO, but more general
 LexusNexis
 Rhomson Reuters
