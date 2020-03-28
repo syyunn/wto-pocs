@@ -20,3 +20,4 @@ https://www.wto.org/english/res_e/publications_e/wtr10_forum_e/wtr10_marceau_e.p
 ### ToDos
 
 - [ ] Ask for an advice to worldtradelaw.net
+- [ ] Contact with KluwerLaw international-sales@wolterskluwer.com  |    + 31 172 64 1562
