@@ -22,3 +22,6 @@ https://www.wto.org/english/res_e/publications_e/wtr10_forum_e/wtr10_marceau_e.p
 
 - [ ] Ask for an advice to worldtradelaw.net
 - [ ] Contact with KluwerLaw international-sales@wolterskluwer.com  |    + 31 172 64 1562
+
+### Practitioners
+https://www.akingump.com/en/lawyers-advisors/index.html?num=999999&start=0&view_all=1&action=attorneys&practices=516&
