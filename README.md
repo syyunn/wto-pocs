@@ -30,3 +30,6 @@ https://www.akingump.com/en/lawyers-advisors/index.html?num=999999&start=0&view_
 
 ## Law Firms
 https://bestlawfirms.usnews.com/international-trade-and-finance-law
+
+### Akerman
+https://www.akerman.com/en/people/index.html?p=1551
